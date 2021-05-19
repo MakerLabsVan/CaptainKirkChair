@@ -13,7 +13,7 @@ Build Album: https://photos.app.goo.gl/z7yT4U5aTWjdh2oc8
 - hand router 
 - paint roller
 - upholstory scissors
-- upholstory staper
+- upholstory stapler
 - laser cutter
 
 ## Hardware
