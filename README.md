@@ -7,10 +7,21 @@ Built at MakerLabs (www.makerlabs.com), 2021 Q1
 
 Build Album: https://photos.app.goo.gl/z7yT4U5aTWjdh2oc8
 
+## Recommend Tools
+- CNC router table (4' by 4'+)
+- table saw
+- hand router 
+- paint roller
+- upholstory scissors
+- upholstory staper
+- laser cutter
+
 ## Hardware
+- leveling feet: https://www.amazon.ca/Furniture-Levelers-Adjustable-Thread-Diameter/dp/B074V5PKTX
 - self-return turntable: https://www.amazon.ca/Aexit-Hardware-Turntable-Self-Return-Capacity/dp/B07MQSBC8B
 - pedestal: https://www.amazon.ca/SeaSense-50012641-Seat-Pedestal-4-Inch/dp/B0019M5ET0
 - lazy susan: https://www.leevalley.com/en-ca/shop/hardware/project-supplies/metal-parts/44014-aluminum-lazy-susan-bearings?item=12K6817
+- drawer slides (optional): https://www.amazon.ca/Liberty-16-Inch-Soft-Close-Bearing-Drawer/dp/B00PHL3RD4
 
 ## Upholstory
 - 1/16" flexible white packing foam to ease all edges
